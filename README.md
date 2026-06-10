@@ -110,7 +110,7 @@ EolmaSseosseo/
 
 ## 📱 앱 화면
 
-> 시연 영상: [YouTube 링크](#) ← 영상 업로드 후 링크 추가
+> 시연 영상: [YouTube 링크](#https://youtu.be/xICNX0NP6Kw)
 
 <br>
 
